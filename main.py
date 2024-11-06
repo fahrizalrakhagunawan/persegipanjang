@@ -7,5 +7,5 @@ luas = panjang * lebar
 # menghitung keliling
 keliling = 2 * (panjang + lebar)
 # menampilkan hasil luas
-print(f"luas persegi panjang adalah: {luas}")
-print(f"keliling persegi panjang adalah: {keliling}")
+print(f"luas persegi panjang adalah: {luas} satuan persegi")
+print(f"keliling persegi panjang adalah: {keliling} satuan")
